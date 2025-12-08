@@ -7,8 +7,6 @@
 🚀 **Full Stack Developer** | **MERN Stack Specialist** | **React Native Expert**  
 💡 Building scalable web & mobile applications with modern technologies
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Devyash%20Rasela&fontSize=50&animation=fadeIn" />
-
 </div>
 
 ---
@@ -80,8 +78,6 @@ I'm a passionate developer who loves turning ideas into reality through code. Wi
 <p>
   📧 <strong>Email:</strong> devyashrasela@gmail.com
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
 
 </div>
 
