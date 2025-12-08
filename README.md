@@ -53,30 +53,6 @@ I'm a passionate developer who loves turning ideas into reality through code. Wi
 
 ---
 
-## 📈 **GitHub Stats**
-
-<div align="center">
-  
-![Devyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=devyashrasela&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devyashrasela&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devyashrasela&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
----
-
-## 🏆 **GitHub Achievements**
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=devyashrasela&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
-
-</div>
-
----
-
 ## 📫 **Connect With Me**
 
 <div align="center">
@@ -86,18 +62,9 @@ I'm a passionate developer who loves turning ideas into reality through code. Wi
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__devyash__/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/devyashrasela/)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/devyashkpju)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](devyashrasela@gmail.com)
 
 </div>
-
----
-
-## 💼 **Recent Projects**
-
-<!-- Add your featured projects here -->
-🔹 **Project 1** - Brief description  
-🔹 **Project 2** - Brief description  
-🔹 **Project 3** - Brief description  
 
 ---
 
