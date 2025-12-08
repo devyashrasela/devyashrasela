@@ -81,5 +81,7 @@ I'm a passionate developer who loves turning ideas into reality through code. Wi
   📧 <strong>Email:</strong> devyashrasela@gmail.com
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
+
 </div>
 
