@@ -1,133 +1,116 @@
-<h1 align="center">Hi 👋, I'm Devyash Rasela</h1>
-<h3 align="center">
-  I’m a passionate Web and App Developer who loves turning ideas into real, usable products.  
-  Curious by nature and driven by growth, I enjoy building modern, responsive applications, exploring new tools and technologies,  
-  and constantly leveling up my development skills.
-</h3>
+<!-- Header -->
+<div align="center">
+
+# 👨‍💻 Hi, I'm Devyash Rasela
+
+🚀 **Full Stack Developer** | **MERN Stack Specialist** | **React Native Expert**  
+💡 Building scalable web & mobile applications with modern technologies
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Devyash%20Rasela&fontSize=50&animation=fadeIn)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devyashrasela&label=Profile%20views&color=0e75b6&style=flat" alt="devyashrasela" />
-</p>
+## 🧑‍💻 **About Me**
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devyashrasela&theme=algolia&margin-w=10&margin-h=10" alt="GitHub Profile Trophy" />
-  </a>
-</p>
+I'm a passionate developer who loves turning ideas into reality through code. With a strong foundation in both frontend and backend technologies, I enjoy creating seamless user experiences and robust systems. I'm always excited to learn new technologies and tackle challenging problems.
 
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on **web and mobile app projects** using React, React Native, and MERN stack.  
-- 🌱 I’m currently learning **advanced React patterns, performance optimization, and scalable backend design**.  
-- 👯 I’m looking to collaborate on **open-source projects, hackathons, and real-world problem-solving apps**.  
-- 💬 Ask me about **React, React Native, JavaScript, Node.js, MongoDB, UI/UX, and API integrations**.  
-- ⚡ Fun fact: I love **building side projects just to try out new ideas and technologies**.
+- 🔭 **Currently:** Building full-stack applications with modern web technologies
+- 🌱 **Learning:** System Design, Microservices, Cloud Architecture & DevOps
+- 💼 **Interests:** SaaS Products, Mobile Apps, Open Source Contributions
+- 🎯 **Goal:** To build impactful products that solve real-world problems
+- ⚡ **Fun Fact:** I often start side projects to explore new tech stacks
 
 ---
 
-### 🌐 Connect with Me
+## 🛠️ **Tech Stack**
 
-<p align="left">
-  <a href="https://twitter.com/devyashcode_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - @devyashcode_" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/devyash-rasela" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - devyash-rasela" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/__devyash__/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - __devyash__" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/devyashrasela/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - devyashrasela" height="30" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/devyashkpju/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks - devyashkpju" height="30" width="40" />
-  </a>
-</p>
+### **Frontend Development**
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🛠️ Languages and Tools
+### **Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-</p>
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📈 **GitHub Stats**
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devyashrasela&show_icons=true&locale=en&layout=compact" alt="Top Languages - devyashrasela" />
-</p>
+<div align="center">
+  
+![Devyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=devyashrasela&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devyashrasela&show_icons=true&locale=en" alt="GitHub Stats - devyashrasela" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devyashrasela&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devyashrasela" alt="GitHub Streak - devyashrasela" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devyashrasela&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
+---
+
+## 🏆 **GitHub Achievements**
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=devyashrasela&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+## 📫 **Connect With Me**
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devyashcode_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devyash-rasela)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__devyash__/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/devyashrasela/)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/devyashkpju)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+## 💼 **Recent Projects**
+
+<!-- Add your featured projects here -->
+🔹 **Project 1** - Brief description  
+🔹 **Project 2** - Brief description  
+🔹 **Project 3** - Brief description  
+
+---
+
+<div align="center">
+
+### ⭐️ **Visitor Count**
+![Visitor Count](https://komarev.com/ghpvc/?username=devyashrasela&label=Profile%20Views&color=0e75b6&style=flat)
+
+### ❤️ **Support**
+If you like my work, consider starring ⭐ some of my repositories!
+
+**Thanks for visiting! Have a great day!** ✨
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
+
+</div>
