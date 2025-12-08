@@ -83,18 +83,3 @@ I'm a passionate developer who loves turning ideas into reality through code. Wi
 
 </div>
 
----
-
-<div align="center">
-
-### 📈 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=devyashrasela&label=Profile%20Views&color=blue&style=flat)
-
-### ⭐ Support
-If you like my work, consider giving a star to my repositories!
-
-**Thanks for visiting! Have a great day!** ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
-
-</div>
