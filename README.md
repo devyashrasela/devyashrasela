@@ -17,20 +17,11 @@
 
 I'm a passionate developer who loves turning ideas into reality through code. With expertise in both frontend and backend technologies, I create seamless user experiences and robust systems.
 
-```javascript
-const devyash = {
-  pronouns: "he/him",
-  currentFocus: "Building full-stack applications",
-  learning: ["System Design", "Microservices", "Cloud Architecture"],
-  interests: ["SaaS Products", "Mobile Apps", "Open Source"],
-  goal: "To build impactful products that solve real-world problems"
-};
-```
-
-- 🔭 Currently building full-stack applications with modern technologies
-- 🌱 Learning System Design, Microservices, Cloud Architecture & DevOps
-- 💼 Interested in SaaS Products, Mobile Apps, and Open Source Contributions
-- ⚡ Fun Fact: I often start side projects to explore new tech stacks
+- 🔭 Currently working on **modern web and mobile applications**
+- 🌱 Learning **system design, scalable backend architecture & advanced React**
+- 🤝 Open to collaborating on **open-source and innovative tech projects**
+- 💬 Ask me about **React, React Native, MERN Stack, UI/UX & APIs**
+- 🎯 Goal: Build meaningful products while constantly improving skills
 
 ---
 
@@ -61,33 +52,6 @@ const devyash = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devyashrasela&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyashrasela&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
-<br/>
-<br/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=devyashrasela&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devyashrasela&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-
-</div>
 
 ---
 
