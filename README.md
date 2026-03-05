@@ -48,5 +48,4 @@ const devyash = {
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Itim&size=22&duration=3000&pause=1000&color=6C8EBF&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+stopping+by.+Let%27s+build+something+great." alt="closing" />
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=devyashrasela&color=00b4ff&style=flat-square&label=profile+views" />
 </div>
