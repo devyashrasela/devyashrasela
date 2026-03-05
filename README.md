@@ -1,6 +1,6 @@
 <div align="center">
     <!-- <img width="280" src="assets/soulja-boy-pepe.gif"/> -->
-    <br/>
+    <!-- <br/> -->
     <br/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=620&height=60&lines=Hey+there!+I'm+Devyash+Rasela!" alt="Typing SVG" /></a>
 </div>
