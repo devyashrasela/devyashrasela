@@ -1,83 +1,52 @@
-
-<!-- Header -->
 <div align="center">
-
-# 👨‍💻 Hi, I'm Devyash Rasela
-
-🚀 **Full Stack Developer** | **MERN Stack Specialist** | **React Native Expert**  
-💡 Building scalable web & mobile applications with modern technologies
-
+    <img width="280" src="assets/soulja-boy-pepe.gif"/>
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=620&height=60&lines=Hey+there!+I'm+Devyash+Rasela!" alt="Typing SVG" /></a>
 </div>
 
----
-
-## 📋 About Me
-
-I'm a passionate developer who loves turning ideas into reality through code. With expertise in both frontend and backend technologies, I create seamless user experiences and robust systems.
-
-- 🔭 Currently working on **modern web and mobile applications**
-- 🌱 Learning **system design, scalable backend architecture & advanced React**
-- 🤝 Open to collaborating on **open-source and innovative tech projects**
-- 💬 Ask me about **React, React Native, MERN Stack, UI/UX & APIs**
-- 🎯 Goal: Build meaningful products while constantly improving skills
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
-
-### Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
 <div align="center">
-
-<p>
-  <a href="https://twitter.com/devyashcode_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/devyash-rasela">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/__devyash__/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/devyashrasela/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/devyashkpju">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
-
-<p>
-  📧 <strong>Email:</strong> devyashrasela@gmail.com
-</p>
-
+    <a href="https://twitter.com/devyashcode_"><img src="https://img.shields.io/badge/-Twitter-cdd6f4?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"/></a>
+    <a href="https://www.linkedin.com/in/devyash-rasela"><img src="https://img.shields.io/badge/-LinkedIn-b4befe?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/__devyash__/"><img src="https://img.shields.io/badge/-Instagram-f2cdcd?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+    <a href="https://leetcode.com/u/devyashrasela/"><img src="https://img.shields.io/badge/-LeetCode-f9e2af?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+    <a href="https://www.geeksforgeeks.org/user/devyashkpju"><img src="https://img.shields.io/badge/-GeeksforGeeks-a6e3a1?style=for-the-badge&logo=geeksforgeeks&logoColor=0F9D58" alt="GeeksforGeeks"/></a>
 </div>
 
+<br/>
+
+## 👾 A little about me...
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=devyashrasela&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+
+I am a **Full Stack Developer & MERN Specialist** with a deep focus on building scalable web and mobile applications. I care about clean architecture, smooth user experiences, and writing code that actually makes sense.
+
+I am passionate about **open-source**, always exploring new tools and patterns, and open to collaborating on innovative tech projects.
+
+Currently leveling up in **system design, advanced React patterns, and backend architecture**.
+
+```javascript
+const devyash = {
+    location: "India",
+    languages: {
+        primary:     ["JavaScript", "TypeScript"],
+        secondary:   ["Python", "SQL"],
+    },
+    programming: {
+        frontend:    ["React", "React Native", "Redux", "Tailwind CSS"],
+        backend:     ["Node.js", "Express.js", "Django"],
+        databases:   ["MongoDB", "PostgreSQL", "MySQL"],
+        devOps:      ["Docker", "Git", "Nginx"],
+        tools:       ["Postman", "Figma", "VS Code"],
+    },
+    currentlyLearning: ["System Design", "Scalable Architecture"],
+    openTo:            ["Collaborations", "Freelance", "Full-time roles"],
+};
+```
+<br/>
+
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=22&duration=3000&pause=1000&color=6C8EBF&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+stopping+by.+Let%27s+build+something+great." alt="closing" />
+    <br/>
+    <img src="https://komarev.com/ghpvc/?username=devyashrasela&color=00b4ff&style=flat-square&label=profile+views" />
+</div>
