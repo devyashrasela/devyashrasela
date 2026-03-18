@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-    <a href="https://twitter.com/devyashcode_"><img src="https://img.shields.io/badge/-Twitter-cdd6f4?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"/></a>
+    <a href="https://x.com/DevyashRasela"><img src="https://img.shields.io/badge/-Twitter-cdd6f4?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"/></a>
     <a href="https://www.linkedin.com/in/devyash-rasela"><img src="https://img.shields.io/badge/-LinkedIn-b4befe?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>
     <a href="https://www.instagram.com/__devyash__/"><img src="https://img.shields.io/badge/-Instagram-f2cdcd?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
     <a href="https://leetcode.com/u/devyashrasela/"><img src="https://img.shields.io/badge/-LeetCode-f9e2af?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
