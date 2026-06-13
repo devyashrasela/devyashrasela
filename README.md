@@ -35,7 +35,7 @@ const devyash = {
     programming: {
         frontend:    ["React", "React Native", "Redux", "Tailwind CSS"],
         backend:     ["Node.js", "Express.js", "Django"],
-        databases:   ["MongoDB", "PostgreSQL", "MySQL"],
+        databases:   ["MongoDB", "PostgreSQL", "MySQL" , "Redis" , "Qdrant"],
         devOps:      ["Docker", "Git", "Nginx"],
         tools:       ["Postman", "Figma", "VS Code"],
     },
