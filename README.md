@@ -30,7 +30,7 @@ const devyash = {
     location: "India",
     languages: {
         primary:     ["JavaScript", "TypeScript"],
-        secondary:   ["Python", "Java", "SQL"],
+        secondary:   ["Python", "Java", "Go", "SQL"],
     },
     programming: {
         frontend:    ["React", "React Native", "Redux", "Tailwind CSS"],
