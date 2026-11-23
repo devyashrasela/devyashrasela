@@ -29,7 +29,7 @@ Currently leveling up in **system design, advanced React patterns, and backend a
 const devyash = {
     location: "India",
     languages: {
-        primary:     ["JavaScript", "TypeScript"],
+        primary:     ["C++", "JavaScript", "TypeScript"],
         secondary:   ["Python", "Java", "Go", "SQL"],
     },
     programming: {
