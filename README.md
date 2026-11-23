@@ -30,11 +30,11 @@ const devyash = {
     location: "India",
     languages: {
         primary:     ["JavaScript", "TypeScript"],
-        secondary:   ["Python", "SQL"],
+        secondary:   ["Python", "Java", "SQL"],
     },
     programming: {
         frontend:    ["React", "React Native", "Redux", "Tailwind CSS"],
-        backend:     ["Node.js", "Express.js", "Django"],
+        backend:     ["Node.js", "Express.js", "FastAPI"],
         databases:   ["MongoDB", "PostgreSQL", "MySQL" , "Redis" , "Qdrant"],
         devOps:      ["Docker", "Git", "Nginx"],
         tools:       ["Postman", "Figma", "VS Code"],
